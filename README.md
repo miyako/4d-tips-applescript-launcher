@@ -6,7 +6,6 @@ on open theFiles
 	if (count of theFiles) is not 0 then
 		set theFile to item 1 of theFiles
 		set thePath to quoted form of POSIX path of theFile
-		--display alert thePath
 		do shell script "open -a 4D " & thePath
 	end if
 end open
