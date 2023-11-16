@@ -13,4 +13,5 @@ end open
 
 see `man open` for `open` arugments. by default, the path is simply used open 4D.
 
+* edit the `do shell script` to meet local needs.
 * `LSBackgroundOnly` and `LSUIElement` are noth set to `YES`.
