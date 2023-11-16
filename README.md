@@ -13,3 +13,5 @@ end open
 ```
 
 see `man open` for `open` arugments. by default, the path is simply used open 4D.
+
+* `LSBackgroundOnly` and `LSUIElement` are noth set to `YES`.
